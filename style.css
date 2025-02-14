@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url("/image/emmanuel-cassar-GjB1OW-XeP8-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #231564e8;
+    color: rgb(124, 44, 20);
+    padding: 20px;
+}
+
+section {
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+#about .moi{
+    font-size: 18px;
+    
+    
+}
+#passion .passion{
+    font-size: 18px;
+     
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}
